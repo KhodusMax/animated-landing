@@ -1,0 +1,126 @@
+.description {
+    position: absolute;
+    left: 48em;
+    top: 8em;
+    width: 35%;
+    height: 85%;
+    transform: translateX(-50%);
+}
+
+.small-blocks {
+    position: absolute;
+    font-family: 'Helvetica', sans-serif;
+    border-radius: 1em;
+    background-color: rgba(255, 255, 255, 0.8);
+    max-width: 35.985%;
+    min-height: 19.37%;
+    padding: 1em 1em 1em 1.738em;
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.250em;
+    cursor: pointer;
+    color: #000;
+    box-sizing: border-box;
+}
+
+.education .small-blocks:hover {
+    background-color: #DEDEDE;
+}
+
+.education .round {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    width: 15.9985px;
+    height: 15.9985px;
+    left: 0.4em;
+    top: 0.3em;
+    background-color: #DEDEDE;
+    border-radius: 50%;
+}
+
+.ref-one {
+    left: 2.5em;
+    top: 2.5em;
+}
+
+.ref-two{
+    left: 6em;
+    top: 12em;
+}
+
+.ref-three {
+    left: 1.5em;
+    top: 22em;
+}
+
+.ref-four {
+    left: 16em;
+    top: 1em;
+}
+
+.ref-five {
+    left: 21em;
+    top: 11em;
+}
+
+.ref-six {
+    left: 18em;
+    top: 23em;
+}
+
+.full-description {
+    position: absolute;
+    left: 48em;
+    transform: translateX(-50%);
+    top: 9em;
+    width: 30%;
+    height: 60%;
+}
+
+.close {
+    position: absolute;
+    right: -0.5em;
+    top: 3em;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.content {
+    display: block;
+    height: 21em;
+    overflow-y: scroll;
+    padding-right: 10px;
+}
+
+.content::-webkit-scrollbar {
+    width: 4px;
+    background-color: inherit;
+}
+
+.education::-webkit-scrollbar-thumb {
+    background-color: #c4c0c0;
+    border-radius: 1em;
+}
+
+.black p, .black h2 {
+    margin: 0 auto;
+    padding: 0;
+    padding-right: 5px;
+    text-align: left;
+    color: black;
+    line-height: 1.5em;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "ITC Charter Pro", serif;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 16px;
+    font-family: "Helvetica", sans-serif;
+}
+
+

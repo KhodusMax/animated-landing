@@ -1,0 +1,1 @@
+export const logo = <img src="https://www.pwc.com/ua/en/press-room/2021/anniversary/LOGO.svg" alt="logo" style={{display: 'block'}}></img>

@@ -1,0 +1,36 @@
+.description {
+    position: absolute;
+    display: block;
+    left: 32.5em;
+    top: 12em;
+    width: 30%;
+    height: 85%;
+}
+
+.h1 {
+    text-align: inherit;
+    font-size: 32px;
+    color: white;
+    font-family: "ITC Charter Pro", serif;
+    margin-bottom: 20px;
+    line-height: 1em;
+}
+
+.text {
+    text-align: inherit;
+    font-size: 16px;
+    color: white;
+    font-family: "Helvetica", sans-serif;
+    line-height: 1.5em;
+    margin: 0;
+    bottom: 0;
+}
+
+.button {
+    box-sizing: border-box;
+    background-color: #FFB600;
+    border-radius: 2em;
+    width: 60%;
+    padding: 2%;
+    margin: 20px auto;
+}
