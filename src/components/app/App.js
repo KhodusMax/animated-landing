@@ -1,6 +1,4 @@
-import { useSpring, animated, config } from 'react-spring';
 import {  BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { useState, useEffect } from 'react';
 
 import Main from '../pages/Main';
 import Reforms from '../pages/Reforms';

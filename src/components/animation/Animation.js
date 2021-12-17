@@ -1,5 +1,5 @@
 import { useSpring, animated, config } from 'react-spring';
-import {  BrowserRouter as Router, Routes, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 import { frame } from '../../img/frame';
 import { number1, number2 } from '../../img/numbers';
